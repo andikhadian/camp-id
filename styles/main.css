@@ -212,6 +212,42 @@ header .btn-get-started:hover {
   margin-right: -20px;
 }
 
+.camping-now-heading {
+  height: 370px;
+  background-color: #b67e60;
+  margin-top: 100px;
+  padding-top: 80px;
+}
+
+.camping-now-heading h2,
+.camping-now-heading p {
+  color: #fff;
+}
+
+.camping-now-heading h2 {
+  font-family: "Bree", serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.camping-now-heading p {
+  font-size: 18px;
+}
+
+.camping-now-heading .btn-camping-now {
+  margin-top: 20px;
+  width: 150px;
+  height: 40px;
+  background-color: #fff;
+  color: #b67e60;
+}
+
+.camping-now-heading .btn-camping-now:hover {
+  background-color: #b67e60;
+  color: #fff;
+  border-color: #fff;
+}
+
 .section-details-header {
   min-height: 310px;
   background: #e4e6eb;
